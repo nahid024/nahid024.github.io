@@ -18,9 +18,9 @@ const Navbar = () => {
         <Typography
           variant="h6"
           component="div"
-          sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
+          sx={{ flexGrow: 1, display: { xs: "none", sm: "block",color: "white" } }}
         >
-          Shaykh Siddique
+          S.M. Nahid Hasan 
         </Typography>
         <Box>
           {navItems.map((item) => (

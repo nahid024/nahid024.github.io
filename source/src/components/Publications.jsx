@@ -10,7 +10,7 @@ const Publications = () => {
       date: "September 2023",
       title:
         "Shultana, S., & Frizell, S. In 2023 IEEE Sixth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE) (pp. 99-104). IEEE.",
-      doi: "10.1109/AIKE59827.2023.00024",
+      //doi: "10.1109/AIKE59827.2023.00024",
       link: "#",
     },
     {

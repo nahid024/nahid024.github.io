@@ -11,7 +11,7 @@ import ProfessionalExperience from "../components/ProfessionalExperience";
 import Publications from "../components/Publications";
 const HomePage = () => {
   return (
-    <Container>
+    <div style={{padding:"0 20px"}}>
       <Navbar />
       <HeroBanner/>
       <MediaIcon />
@@ -24,7 +24,7 @@ const HomePage = () => {
       <Divider />
       <ProfessionalExperience />
       <Footer/>
-    </Container>
+    </div>
   );
 };
 
